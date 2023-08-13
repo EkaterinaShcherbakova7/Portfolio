@@ -10,8 +10,11 @@
 | Content Cell  | Content Cell  |Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  |
 
-![image](https://github.com/EkaterinaShcherbakova7/Portfolio/assets/142055028/7bd7af10-b104-4203-87e0-cab592656dae)
+**Основные рекомендации по удержанию клиентов** 
+![image](https://github.com/EkaterinaShcherbakova7/Portfolio/assets/142055028/fb360356-829b-4e88-9958-c5d759ef7e1b)
 
+
+**Какие показатели статистически влияют на отток**
 |Показатель |Сравнение портретов/гипотезы|Корреляции|Распределения в разрезе оттока|
 | :--- | :---: | :---: | :--- |
 |score      |нет связи                   |есть связь          |группа 2 (2 - рейтинг от 820 до 940)                              |

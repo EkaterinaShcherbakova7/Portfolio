@@ -10,4 +10,5 @@
 | Content Cell  | Content Cell  |Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  |
 
-![image](https://github.com/EkaterinaShcherbakova7/Portfolio/assets/142055028/241c95d1-e4e0-45a7-a29a-93ead1002fff)
+![image](https://github.com/EkaterinaShcherbakova7/Portfolio/assets/142055028/7bd7af10-b104-4203-87e0-cab592656dae)
+
